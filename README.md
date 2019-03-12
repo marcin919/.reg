@@ -9,5 +9,5 @@
 
 Kommentare
 
-'; This will delete the key below because of the - sign'
-'[-HKEY_LOCAL_MACHINE\SOFTWARE\SavillTech\key]'
+`; This will delete the key below because of the - sign`
+`[-HKEY_LOCAL_MACHINE\SOFTWARE\SavillTech\key]`
